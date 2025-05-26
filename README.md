@@ -13,7 +13,7 @@
 - **Frontend**: React, Flutter, TypeScript, Redux
 - **Backend**: Node.js, Express, MongoDB
 - **AI/ML**: TensorFlow, PyTorch, Python
-- **Tools**: Git, Docker, VS Code
+- **Tools**: Git, VS Code
 
 ### 🌟 Featured Projects
 1. **[Project Name 1]** - Brief description
