@@ -3,7 +3,7 @@
 ## 🚀 Full-Stack Developer & AI Enthusiast
 
 [![GitHub followers](https://img.shields.io/github/followers/huzaifawork?label=Follow&style=social)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/muhammad-huzaifa-tariq-829b9a315)
 
 ### 🎓 Education
 - BS in Computer Science
