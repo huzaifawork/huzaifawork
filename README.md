@@ -12,11 +12,40 @@
 
 ### 💻 Tech Stack
 
-- **Frontend**: React.js, Next.js, Flutter, Bootstrap, Tailwind CSS
-- **Backend**: Node.js, Express.js, REST APIs, Socket.io, JWT/OAuth
-- **Databases & Cloud**: MongoDB, Firebase, Vercel
-- **AI/ML**: OpenAI API, scikit-learn, XGBoost, LightGBM, Pandas
-- **Tools**: Git/GitHub, Postman, VS Code, Stripe API
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+**Databases & Cloud**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+**AI / ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### 🌟 Featured Projects
 
@@ -32,28 +61,16 @@
 4. **[Full Stack E-Commerce Store](https://github.com/huzaifawork/ecommerce-fullstack-design)** — Complete online store with cart, orders, and role-based admin panel
    - Tech: React.js, Vite, Node.js, Express.js, MongoDB
 
-### 📊 GitHub Stats
+### 🔭 What I'm Up To
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=huzaifawork&show_icons=true&theme=radical)
-
-### 🏆 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifawork&layout=compact&theme=radical)
-
-### 🌱 Currently Learning
-
-- Advanced Machine Learning
+- 💼 Freelancing as a full stack developer — open to full-time opportunities
+- 🌱 Currently learning: Advanced Machine Learning
+- ⚡ I love turning complex problems into clean, working software
 
 ### 📫 How to Reach Me
 
 - Email: [muhammadhuzaifatariq29@gmail.com](mailto:muhammadhuzaifatariq29@gmail.com)
 - LinkedIn: [Muhammad Huzaifa Tariq](https://www.linkedin.com/in/muhammad-huzaifa-tariq-829b9a315)
-
-### ⚡ Fun Facts
-
-- I love solving complex problems
-- Always exploring new technologies
-- Passionate about open-source contributions
 
 ---
 
